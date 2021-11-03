@@ -1,9 +1,3 @@
-ì¬ƒAƒvƒŠ
-https://react-book-corona-tracker-app.netlify.app/
-
-‘ĞE‘fŞŒfÚƒy[ƒW
-https://react-book-corona-tracker-app.netlify.app/links
-
 # Getting Start
 ed with Create React App
 
@@ -38,13 +32,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you canâ€™t go back!**
+**Note: this is a one-way operation. Once you `eject`, you cançª¶å†² go back!**
 
-If you arenâ€™t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you arençª¶å†² satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point youâ€™re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point youçª¶å†³e on your own.
 
-You donâ€™t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldnâ€™t feel obligated to use this feature. However we understand that this tool wouldnâ€™t be useful if you couldnâ€™t customize it when you are ready for it.
+You donçª¶å†² have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldnçª¶å†² feel obligated to use this feature. However we understand that this tool wouldnçª¶å†² be useful if you couldnçª¶å†² customize it when you are ready for it.
 
 ## Learn More
 
